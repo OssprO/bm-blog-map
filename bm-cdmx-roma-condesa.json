@@ -1,0 +1,128 @@
+
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Siniestra Beer Boutique",
+      "coordinates": {
+        "lat": 19.407127235292283,
+        "lng": -99.16125900043149
+      }
+    },
+    {
+      "id": 2,
+      "name": "Revolver Bar",
+      "coordinates": {
+        "lat": 19.409413454689478,
+        "lng": -99.1621552002935
+      }
+    },
+    {
+      "id": 3,
+      "name": "Morenos Tasting Room",
+      "coordinates": {
+        "lat": 19.41215572117167,
+        "lng":  -99.16419368029034
+      }
+    },
+    {
+      "id": 4,
+      "name": "Yeccan Restaurante / Cervecería",
+      "coordinates": {
+        "lat": 19.411606254558823,
+        "lng": -99.16595714254917
+      }
+    },
+    {
+      "id": 5,
+      "name": "Laromabrewing",
+      "coordinates": {
+        "lat": 19.41423671038566,
+        "lng": -99.16255737070884
+      }
+    },
+    {
+      "id": 6,
+      "name": "Falling Piano",
+      "coordinates": {
+        "lat": 19.411915021606216,
+        "lng": -99.16008078614952
+      }
+    },
+    {
+      "id": 7,
+      "name": "La Belga",
+      "coordinates": {
+        "lat": 19.414931406835954,
+        "lng": -99.15917497985616
+      }
+    },
+    {
+      "id": 8,
+      "name": "Amantoli Tap Room",
+      "coordinates": {
+        "lat": 19.415300417437425,
+        "lng": -99.17209657169681
+      }
+    },
+    {
+      "id": 9,
+      "name": "El Grifo",
+      "coordinates": {
+        "lat": 19.413820292630092,
+        "lng": -99.17307880002625
+      }
+    },
+    {
+      "id": 10,
+      "name": "Dunkendog",
+      "coordinates": {
+        "lat": 19.41600378637766,
+        "lng": -99.16966158597683
+      }
+    },
+    {
+      "id": 11,
+      "name": "Trappist",
+      "coordinates": {
+        "lat": 19.416244098355236,
+        "lng": -99.16900532031487
+      }
+    },
+    {
+      "id": 12,
+      "name": "Cyprez Tap Room",
+      "coordinates": {
+        "lat": 19.40569003537509,
+        "lng": -99.1594360581824
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Doña Vero",
+      "coordinates": {
+        "lat": 19.407123635689437,
+        "lng": -99.16156798705326
+      }
+    },
+    {
+      "id": "B",
+      "name": "Comedor de los Milagros",
+      "coordinates": {
+        "lat": 19.41025716793902,
+        "lng": -99.16435204991672
+      }
+    },
+    {
+      "id": "C",
+      "name": "Pizzas Nosferatu",
+      "coordinates": {
+        "lat": 19.413704764413765,
+        "lng": -99.17304672182544
+      }
+    }
+  ],
+  "randompoints": []
+}

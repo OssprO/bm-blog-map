@@ -1,0 +1,152 @@
+
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "La Perdida",
+      "coordinates": {
+        "lat": 19.398812554034986,
+        "lng": -99.15144420029563
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cerveza en Punto",
+      "coordinates": {
+        "lat": 19.39842801606753,
+        "lng":  -99.15510273402305
+      }
+    },
+    {
+      "id": 3,
+      "name": "Beer Bros",
+      "coordinates": {
+        "lat": 19.39152982706394,
+        "lng": -99.16057498856378
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hop The Beer Experience 2",
+      "coordinates": {
+        "lat": 19.387076866298944,
+        "lng": -99.15676627373612
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ventura Burger & Tap",
+      "coordinates": {
+        "lat": 19.385062032716952,
+        "lng": -99.1553347293083
+      }
+    },
+    {
+      "id": 6,
+      "name": "Metropolitana Cervecera",
+      "coordinates": {
+        "lat": 19.401729073411005,
+        "lng": -99.14580451353642
+      }
+    },
+    {
+      "id": 7,
+      "name": "Beer & Heels Balmori",
+      "coordinates": {
+        "lat": 19.390813933283788,
+        "lng": -99.15055710042864
+      }
+    },
+    {
+      "id": 8,
+      "name": "Principia Tasting Room",
+      "coordinates": {
+        "lat": 19.392039373680074,
+        "lng": -99.17198497128422
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lagrimas de Malta",
+      "coordinates": {
+        "lat": 19.399114072615465,
+        "lng": -99.17050078233248
+      }
+    },
+    {
+      "id": 10,
+      "name": "New YorKing",
+      "coordinates": {
+        "lat": 19.39640933317491,
+        "lng": -99.17138881311773
+      }
+    },
+    {
+      "id": 11,
+      "name": "Hudson Taproom",
+      "coordinates": {
+        "lat": 19.405564492886178,
+        "lng": -99.18220474227473
+      }
+    },
+    {
+      "id": 12,
+      "name": "El Deposito Narvarte",
+      "coordinates": {
+        "lat": 19.387451612403726,
+        "lng": -99.15395190057109
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Marsalada",
+      "coordinates": {
+        "lat": 19.398005786134988,
+        "lng": -99.14791577588208
+      }
+    },
+    {
+      "id": "B",
+      "name": "Las Tlayudas",
+      "coordinates": {
+        "lat": 19.390916725167035,
+        "lng": -99.1582042881647
+      }
+    },
+    {
+      "id": "C",
+      "name": "Pinche Gringo",
+      "coordinates": {
+        "lat": 19.393270692360524,
+        "lng": -99.15225125853043
+      }
+    },
+    {
+      "id": "D",
+      "name": "Piloncillo y Cascabel",
+      "coordinates": {
+        "lat": 19.38962459402642,
+        "lng": -99.15885597114988
+      }
+    },
+    {
+      "id": "E",
+      "name": "Proper Burger",
+      "coordinates": {
+        "lat": 19.389912994012008,
+        "lng": -99.15000097114543
+      }
+    },
+    {
+      "id": "F",
+      "name": "Bacon Bar",
+      "coordinates": {
+        "lat": 19.393820273680856,
+        "lng": -99.1559320712832
+      }
+    }
+  ],
+  "randompoints": []
+}

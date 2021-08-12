@@ -1,0 +1,95 @@
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Alta Baja Cervecería",
+      "coordinates": {
+        "lat": 31.867892085843025, 
+        "lng": -116.62294449969869
+      }
+    },
+    {
+      "id": 2,
+      "name": "Heisenberg Tap Room",
+      "coordinates": {
+        "lat": 31.865641503137155, 
+        "lng": -116.62768663846072
+      }
+    },
+    {
+      "id": 3,
+      "name": "El Refri Tap Room",
+      "coordinates": {
+        "lat": 31.86124948070688,
+        "lng": -116.62278359818546
+      }
+    },
+    {
+      "id": 4,
+      "name": "Wendlandt Brew Pub",
+      "coordinates": {
+        "lat": 31.86153195446957, 
+        "lng": -116.62621679032736
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chikilla",
+      "coordinates": {
+        "lat": 31.869061322450445, 
+        "lng": -116.62791400571825
+      }
+    },
+    {
+      "id": 6,
+      "name": "Lucky Irish Pub",
+      "coordinates": {
+        "lat": 31.86844173254415, 
+        "lng": -116.62850409664057
+      }
+    },
+    {
+      "id": 7,
+      "name": "Cervecería Fauna",
+      "coordinates": {
+        "lat": 31.86183962162962,
+        "lng": -116.61750251271658
+      }
+    },
+    {
+      "id": 8,
+      "name": "Canneria",
+      "coordinates": {
+        "lat": 31.86187599964049,
+        "lng": -116.61145139125892
+      }
+    },
+    {
+      "id": 9,
+      "name": "Cervecería #159",
+      "coordinates": {
+        "lat": 31.85775709897322,
+        "lng": -116.60891965953127
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "La Guerrerense",
+      "coordinates": {
+        "lat": 31.86144083998089,
+        "lng": -116.62319128411274
+      }
+    },
+    {
+      "id": "B",
+      "name": "Manzanilla",
+      "coordinates": {
+        "lat": 31.85941788738821, 
+        "lng": -116.63249315814159
+      }
+    }
+  ],
+  "randompoints": []
+}

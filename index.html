@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Brewer Map Blog Embed</title>
+  <link rel="stylesheet" type="text/css" href="./styles.css" />
+  <style type="text/css">
+    #map {
+      height: 100%;
+    }
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+  <script src="./script.js"></script>
+</head>
+
+<body>
+  <div id="map"></div>
+  <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjByc3mAM8xSTyKiFLO4zDjagdwMeOxeI&callback=initMap&libraries=places">
+  </script>
+
+</body>
+
+</html>

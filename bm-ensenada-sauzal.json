@@ -1,0 +1,55 @@
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Transpeninsular",
+      "coordinates": {
+        "lat": 31.865298455589013,
+        "lng": -116.6598845406212
+      }
+    },
+    {
+      "id": 2,
+      "name": "Lucky Irish Pub 4 Beergarden",
+      "coordinates": {
+        "lat": 31.864903127737755,
+        "lng": -116.66942750003811
+      }
+    },
+    {
+      "id": 3,
+      "name": "Agua Mala",
+      "coordinates": {
+        "lat": 31.884491428500354,
+        "lng": -116.6862413828463
+      }
+    },
+    {
+      "id": 4,
+      "name": "Pacific Brews",
+      "coordinates": {
+        "lat": 31.889114205392314,
+        "lng": -116.69145679925093
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cervecería Wendlandt",
+      "coordinates": {
+        "lat": 31.896533081087505,
+        "lng": -116.70852200996052
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "La Flor de Calabaza",
+      "coordinates": {
+        "lat": 31.863360987342308,
+        "lng": -116.65569504269125
+      }
+    }
+  ],
+  "randompoints": []
+}

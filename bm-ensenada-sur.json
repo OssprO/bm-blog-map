@@ -1,0 +1,47 @@
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Cerveza Cardera y Bruer",
+      "coordinates": {
+        "lat": 31.850016256677854,
+        "lng": -116.58843802302123
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bier Warehouse",
+      "coordinates": {
+        "lat": 31.834789863913493,
+        "lng": -116.60351203473483
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lucky Irish Pub 2",
+      "coordinates": {
+        "lat": 31.836667454364143,
+        "lng": -116.6022888558709
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cinco Raices",
+      "coordinates": {
+        "lat": 31.845859509348784,
+        "lng": -116.60842581677264
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Taquería El Trailero Reforma",
+      "coordinates": {
+        "lat": 31.835671307648344,
+        "lng": -116.60194800909997
+      }
+    }
+  ],
+  "randompoints": []
+}

@@ -1,0 +1,104 @@
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Border Psycho Cantina",
+      "coordinates": {
+        "lat": 32.53517856209347,
+        "lng": -117.03713310014253
+      }
+    },
+    {
+      "id": 2,
+      "name": "Norte Brewing Co.",
+      "place_id": "ChIJGTQPGqpJ2YARYVtkx8pedNI",
+      "coordinates": {
+        "lat": 32.53281302615333,
+        "lng": -117.03736600079891
+      }
+    },
+    {
+      "id": 3,
+      "name": "Insurgente Tap Room",
+      "place_id": "ChIJF52aROJJ2YAR1Y_MYrZ4KSo",
+      "coordinates": {
+        "lat": 32.532683670876764,
+        "lng": -117.03649541397122
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cervezartistas",
+      "coordinates": {
+        "lat": 32.53193289353235,
+        "lng": -117.03578733167089
+      }
+    },
+    {
+      "id": 5,
+      "name": "Estación Kaminari Sexta",
+      "coordinates": {
+        "lat": 32.530983114773015,
+        "lng": -117.03517582357267
+      }
+    },
+    {
+      "id": 6,
+      "name": "Teorema Brewing",
+      "coordinates": {
+        "lat": 32.53006048974957,
+        "lng": -117.03621649248139
+      }
+    },
+    {
+      "id": 7,
+      "name": "Silenus Tap Room",
+      "coordinates": {
+        "lat": 32.53066649540075,
+        "lng": -117.0346393343337
+      }
+    },
+    {
+      "id": 8,
+      "name": "República Malta, Beer Garden",
+      "coordinates": {
+        "lat": 32.53421281728767,
+        "lng": -117.02185605810104
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mexica Cervecería",
+      "coordinates": {
+        "lat": 32.53273376076671,
+        "lng": -117.03622529803991
+      }
+    },
+    {
+      "id": 9,
+      "name": "Madueño",
+      "coordinates": {
+        "lat": 32.530908726504435,
+        "lng": -117.03544464513692
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mamut",
+      "coordinates": {
+        "lat": 32.533923259808304,
+        "lng": -117.03752422958715
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Taquería Franc",
+      "coordinates": {
+        "lat": 32.52876282263881,
+        "lng": -117.02771254053204
+      }
+    }
+  ]
+}

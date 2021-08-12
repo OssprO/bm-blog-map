@@ -1,0 +1,46 @@
+{
+  "beerpoints": [
+    {
+      "id": 1,
+      "name": "Pivoteka",
+      "coordinates": {
+        "lat": 19.367212104216797,
+        "lng":  -99.18157739933254
+      }
+    },
+    {
+      "id": 2,
+      "name": "Doble Malta",
+      "coordinates": {
+        "lat": 19.37042185217534,
+        "lng":  -99.17533867141998
+      }
+    },
+    {
+      "id": 3,
+      "name": "Taberna Calacas",
+      "coordinates": {
+        "lat": 19.368672095088854,
+        "lng": -99.14987071339367
+      }
+    },
+    {
+      "id": 4,
+      "name": "La Tregua",
+      "coordinates": {
+        "lat": 19.369256295461646,
+        "lng": -99.17664413617783
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dos Tapas Cervecería",
+      "coordinates": {
+        "lat": 19.38217353285928, 
+        "lng": -99.16856884480009
+      }
+    }
+  ],
+  "foodpoints": [],
+  "randompoints": []
+}

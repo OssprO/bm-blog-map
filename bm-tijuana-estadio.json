@@ -1,0 +1,39 @@
+{
+  "beerpoints": [
+    {
+      "id": 3,
+      "name": "Colectivo La 20 Tasting Room",
+      "coordinates": {
+        "lat": 32.512089940226105, 
+        "lng": -116.99142629523023
+      }
+    },
+    {
+      "id": 2,
+      "name": "Calimax Hipódromo",
+      "coordinates": {
+        "lat": 32.50978943530516, 
+        "lng": -116.99460371084356
+      }
+    },
+    {
+      "id": 1,
+      "name": "Lúdica Cervecería",
+      "coordinates": {
+        "lat": 32.503655513484375, 
+        "lng": -116.98047344261387
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Mantequilla",
+      "coordinates": {
+        "lat": 32.508683132718375,
+        "lng": -116.99957145602535
+      }
+    }
+  ],
+  "randompoints": []
+}

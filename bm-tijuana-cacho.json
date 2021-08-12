@@ -1,0 +1,87 @@
+{
+  "beerpoints": [
+    {
+      "id": 3,
+      "name": "Telefónica Gastropark",
+      "coordinates": {
+        "lat": 32.523406,
+        "lng": -117.028182
+      }
+    },
+    {
+      "id": 4,
+      "name": "Public House",
+      "coordinates": {
+        "lat": 32.518452409278446,
+        "lng": -117.0196358421258
+      }
+    },
+    {
+      "id": 2,
+      "name": "Beer Boutique Tijuana",
+      "coordinates": {
+        "lat": 32.5237607389821,
+        "lng": -117.03251233604993
+      }
+    },
+    {
+      "id": 1,
+      "name": "Margarita Beergarden",
+      "coordinates": {
+        "lat": 32.52693662255408, 
+        "lng": -117.03705463165035
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bierhalle",
+      "coordinates": {
+        "lat": 32.51804709562792,
+        "lng": -117.01095158482337
+      }
+    },
+    {
+      "id": 5,
+      "name": "BCB Tasting Room",
+      "coordinates": {
+        "lat": 32.51540639240368, 
+        "lng": -117.01321745184667
+      }
+    }
+  ],
+  "foodpoints": [
+    {
+      "id": "A",
+      "name": "Puerto Cocina Urbana",
+      "coordinates": {
+        "lat": 32.52222281132065,
+        "lng": -117.01596553928954
+      }
+    },
+    {
+      "id": "B",
+      "name": "KOOL",
+      "coordinates": {
+        "lat": 32.519302654832266, 
+        "lng": -117.01968851198541
+      }
+    },
+    {
+      "id": "C",
+      "name": "Tras / Horizonte by Kokopelli",
+      "coordinates": {
+        "lat": 32.52221283284618,
+        "lng": -117.02102044061597
+      }
+    }
+  ],
+  "randompoints": [
+    {
+      "icon": "",
+      "coordinates": {
+        "lat": 32.523406,
+        "lng": -117.028182
+      }
+    }
+  ]
+}
